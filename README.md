@@ -17,6 +17,6 @@ KreyITSec ist ein Privates 1 Mann Unternehmen. Ich suche nach Schwachstellen fü
 
 To gain an initial foothold on the KreyITSecIn machine, we used the discovered username "bob" and initiated an SSH brute-force attack using Metasploit. We used the rockyou.txt password list located in 
 
-[Machine_Name.md](https://github.com/Netzknoten/HackTheBoxDevelopment/files/12641548/Machine_Name.md)
 
 Skeleton writeups for community challenge and machine submissions 💚
+  
