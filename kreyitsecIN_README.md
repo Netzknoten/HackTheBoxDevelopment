@@ -1,8 +1,10 @@
 ![banner](https://github.com/Netzknoten/HackTheBoxDevelopment/assets/114874531/6b81aad7-a78b-4ad9-bc53-2676ca48431f)
 
 
-# KreyIT SecIn
-![HTB-Box_KreyITSecIN](https://github.com/Netzknoten/HackTheBoxDevelopment/assets/114874531/5fe99c25-9a59-4f32-ad82-ac1094f7ec3b)
+
+
+![HTB-Box_KreyITSecIN](https://github.com/Netzknoten/HackTheBoxDevelopment/assets/114874531/5fe99c25-9a59-4f32-ad82-ac1094f7ec3b) 
+# KreyITSecIn
 
 
 
@@ -28,6 +30,7 @@ KreyITSecIn is an easy-level machine on Hack The Box. The objective is to obtain
 ### Flags:
 
 User: `25f9e794323b453885f5181f1b624d0b`
+123456789
 
 Root: `b7e7309a9c023eeff2e055c5f8cf0d4f`
 FlaggingKreyITSecIN
@@ -84,7 +87,7 @@ cat user.txt
 
 ### User Flag (MD5 Hash)
 
-The user flag is an MD5 hash of the root password. The MD5 hash for the user flag is: `<user_flag_md5_hash>`
+The user flag is an MD5 hash of the root password. The MD5 hash for the user flag is: `25f9e794323b453885f5181f1b624d0b`
 
 ## Root Privilege Escalation
 
@@ -92,14 +95,14 @@ To escalate privileges to root, we used the MD5 hash of the root password, which
 
 ```shell
 su -
-Password: 25f9e794323b453885f5181f1b624d0b
+Password: 123456789
 ```
 
 Once we provided the correct root password hash, we successfully logged in as the root user.
 
 ### Root Flag (MD5 Hash)
 
-The root flag is an MD5 hash of the root password. The MD5 hash for the root flag is: `<root_flag_md5_hash>`
+The root flag is an MD5 hash of the root password. The MD5 hash for the root flag is: `b7e7309a9c023eeff2e055c5f8cf0d4f`
 
 ## Conclusion
 
@@ -107,7 +110,7 @@ KreyITSecIn was an easy-level machine on Hack The Box that involved using Metasp
 
 ---
 
-Please replace `<machine_ip>`, `<user_flag_md5_hash>`, and `<root_flag_md5_hash>` with the actual IP address of the KreyITSecIn machine and the corresponding MD5 hash values for the flags. Adjust the rest of the write-up according to your actual steps and commands.
+Please replace `<machine_ip>`, `<user_flag_md5_hash>`, and `<root_flag_md5_hash>` with the actual IP address of the KreyITSecIn machine and the corresponding MD5 hash values for the flags. Adjust the rest of the write-up according to your actual steps and commands. Write in your new Wordlist: myuserlist.txt, the username "bob".
 
 [Machine_Name.md](https://github.com/Netzknoten/HackTheBoxDevelopment/files/12641548/Machine_Name.md)
 
