@@ -7,16 +7,10 @@
 ​	
 Repository & Machine Author(s): Manuel Krey
 
-​		
-
- 
-
-
-
+​
 ### Description:
 
-KreyITSecIn is an easy-level machine on Hack The Box. The objective is to obtain the `user.txt` and `root.txt` flags. The initial access to the machine was achieved by performing a specific set of steps.
-
+KreyITSec ist ein Privates 1 Mann Unternehmen. Ich suche nach Schwachstellen für Unternehmen, Entwickle aber auch Angreifbare VMs inkl. Lernmodule für Hacking Schüler einer Private Cyber-Security Akkademie. Hier finden sie einige Beispiele, wie z.B ein Angriff ausgeführt wird, oder weiteres spannendes wie Maleware, Trojaner, SQL-Injektion, CSS... I 
 
 ## Foothold
 
