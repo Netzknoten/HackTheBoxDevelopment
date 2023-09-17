@@ -27,9 +27,9 @@ KreyITSecIn is an easy-level machine on Hack The Box. The objective is to obtain
 
 ### Flags:
 
-User: `<md5>`
+User: `25f9e794323b453885f5181f1b624d0b`
 
-Root: `<md5>`
+Root: `b7e7309a9c023eeff2e055c5f8cf0d4f`
 
 
 ## Enumeration
