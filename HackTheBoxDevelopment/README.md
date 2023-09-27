@@ -1,5 +1,5 @@
-# Hack The Box Writeup Templates
-# 8BALL
-![KREY-ITSEC_Schwachstellenscannerr_Landscape](https://github.com/Netzknoten/HackTheBoxDevelopment/assets/114874531/f7e0279b-dd76-466c-abb9-bd4dfcfaaa0f)
+# HackTheBox Development #
+### Maschinen Startseite ###
 
-Skeleton writeups for community challenge and machine submissions 💚
+Überblick über die Boxen, Writeups, Lösungen und vieles mehr.. 💚
+![hackthebox](https://github.com/Netzknoten/HackTheBoxDevelopment/assets/114874531/b2379262-e982-4fad-b60c-d9c05323567c)
